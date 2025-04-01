@@ -16,4 +16,4 @@ Tech-Stack Used
 Used MySQL Community Server — GPL Version 8.0.29 and Connector Version C++ 8.0.29 for creating my
 project as MySQL Community Server — GPL is a free and open-source relational database management 
 system that uses SQL.
-![Uploading image.png…]()
+
