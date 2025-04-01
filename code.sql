@@ -1,4 +1,4 @@
-Insights: Marketing
+==== Insights: Marketing ====
         
 -----# 1.Rewarding Most Loyal Users: People who have been using the platform for the longest time.
 SELECT id,
@@ -61,7 +61,7 @@ LIMIT 2;
 Day of the week do most users register on :
 
 
-Insights: investor metrics
+==== Insights: investor metrics ====
 ----# 1. User Engagement: Are users still as active and post on Instagram or they are making fewer posts.
 
 SELECT (SELECT Count(id)
@@ -73,7 +73,7 @@ SELECT (SELECT Count(id)
 Average user posts and ratio of total posts to total users in Instagram are:
 
 
-# 2.Bots & Fake Accounts: The investors want to know if the platform is crowded with fake and dummy accounts
+------ # 2.Bots & Fake Accounts: The investors want to know if the platform is crowded with fake and dummy accounts
 
 SELECT id,
        username
@@ -84,11 +84,3 @@ WHERE  id IN (SELECT user_id
               HAVING Count(user_id) = (SELECT Count(id)
                                        FROM   photos)); 
 Data of users (bots) who have liked every single photo on the site (since any normal user would not be able to do this) are:
-
-
-Results
-Data analysis using SQL queries to extract insights from database by which we track how users engage and interact with our digital product (software or mobile application) in an attempt to derive business insights for marketing, product & development teams.
-Conclusions from above analysis:
-Marketing team can reward the most loyal customers, send promotional emails to inactive users, use popular hashtags and most active day for brand promotions.
-User engagement can be very useful success metric for the growth of the company.
-Company can remove the bots and fake accounts from the platform to enhance the user experience.
