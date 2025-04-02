@@ -40,4 +40,6 @@ hashtags and most active day for brand promotions. User engagement can be very u
 the growth of the company.Company can remove the bots and fake accounts from the platform to enhance the user 
 experience.
 
-![image](https://github.com/user-attachments/assets/d7e6a860-8535-42cb-ab36-cb7ff435a587)
+![image](https://github.com/user-attachments/assets/24e326c2-c7f2-4d54-8e19-8a0cb8f0af7d)
+
+
