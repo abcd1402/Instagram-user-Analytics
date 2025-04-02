@@ -39,3 +39,5 @@ Marketing team can reward the most loyal customers, send promotional emails to i
 hashtags and most active day for brand promotions. User engagement can be very useful success metric for 
 the growth of the company.Company can remove the bots and fake accounts from the platform to enhance the user 
 experience.
+
+![image](https://github.com/user-attachments/assets/d7e6a860-8535-42cb-ab36-cb7ff435a587)
