@@ -1,4 +1,4 @@
-# Instagram-user-Analytics
+# Instagram-User-Analytics
  Trainity Project
 Finding business insights by marketing and investor metrics which involves analyzing
 user interactions and engagement with the Instagram app to providevaluable insights 
