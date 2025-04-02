@@ -30,8 +30,12 @@ After creating the database required insights are generated from the database ta
 queries in MySQL workbench.
 
 Results
-Data analysis using SQL queries to extract insights from database by which we track how users engage and interact with our digital product (software or mobile application) in an attempt to derive business insights for marketing, product & development teams.
+Data analysis using SQL queries to extract insights from database by which we track how users engage and 
+interact with our digital product (software or mobile application) in an attempt to derive business insights 
+for marketing, product & development teams.
+
 Conclusions from analysis:
-Marketing team can reward the most loyal customers, send promotional emails to inactive users, use popular hashtags and most active day for brand promotions.
-User engagement can be very useful success metric for the growth of the company.
-Company can remove the bots and fake accounts from the platform to enhance the user experience.
+Marketing team can reward the most loyal customers, send promotional emails to inactive users, use popular 
+hashtags and most active day for brand promotions. User engagement can be very useful success metric for 
+the growth of the company.Company can remove the bots and fake accounts from the platform to enhance the user 
+experience.
